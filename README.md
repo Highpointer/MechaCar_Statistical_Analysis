@@ -12,6 +12,7 @@ lm(formula = mpg ~ vehicle_length + vehicle_weight + spoiler_angle + ground_clea
 
 Coefficients:
      (Intercept)    vehicle_length    vehicle_weight     spoiler_angle  ground_clearance               AWD
+      
       -1.040e+02         6.267e+00         1.245e-03         6.877e-02         3.546e+00         -3.411e+00
 
 Study Design: MechaCar vs Competition
