@@ -49,6 +49,9 @@ This model does appear to predict mpg of MechaCar prototypes effectively. The R-
 
 ## Deliverable 3: T-Tests on Suspension Coils
 
+
+![One-sample-T-test](One-sample-T-test.png)
+
 ## Deliverable 4: Design a Study Comparing the MechaCar to the Competition
 (5 points) To test the MechaCar against its competition, we can test the fuel economy of the MechaCar against the fuel economy ratings of comparable vehicles by other manufacturers.
 
