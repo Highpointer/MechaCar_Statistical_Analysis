@@ -4,6 +4,16 @@
 (5 points) Here are the first 10 rows of the 50 rows of MechaCar_mpg.csv read into a dataframe:
 ![First 10 rows of CSV file](MechaCar_mpg_data_frame_first_10_rows.png)
 
+(10 points) Linear regression on all six variables (five are indepepdent and MPG is dependent):
+> lm(mpg ~ vehicle_length + vehicle_weight + spoiler_angle + ground_clearance + AWD, data=MechaCar_table) #generate multiple linear regression model
+
+Call:
+lm(formula = mpg ~ vehicle_length + vehicle_weight + spoiler_angle + ground_clearance + AWD, data = MechaCar_table)
+
+Coefficients:
+     (Intercept)    vehicle_length    vehicle_weight     spoiler_angle  ground_clearance               AWD
+      -1.040e+02         6.267e+00         1.245e-03         6.877e-02         3.546e+00         -3.411e+00
+
 Study Design: MechaCar vs Competition
 (5 points) To test the MechaCar against its competition, we can test the fuel economy of the MechaCar against the fuel economy ratings of comparable vehicles by other manufacturers.
 
