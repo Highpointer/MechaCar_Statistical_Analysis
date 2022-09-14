@@ -53,6 +53,7 @@ One-sample T-test across all manufacturing lots, compared to population mean of 
 ![One-sample-T-test](One-sample-T-test.png)
 
 T-tests for each manufacturing lot, compared to mean 1,500 psi:
+
 ![T-test-Lot1](T-test-Lot1.png)
 
 ![T-test-Lot2](T-test-Lot2.png)
