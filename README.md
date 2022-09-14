@@ -20,7 +20,6 @@ Coefficients:
 
 ![Summary_statistics](Summary_statistics.png)
 
-
 (5 points) Questions addressed in Deliverable 1 Requirements</p>
 Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 
@@ -35,6 +34,9 @@ This model does appear to predict mpg of MechaCar prototypes effectively. The R-
 (5 points) Here are the first 10 rows of the 50 rows of Suspension_Coil.csv read into a dataframe:
 
 ![First 10 rows of Suspension Coil CSV file](Suspension_Coil_df.png)
+
+(10 points) Total summary dataframe for all manufacturing lots
+
 
 Study Design: MechaCar vs Competition
 (5 points) To test the MechaCar against its competition, we can test the fuel economy of the MechaCar against the fuel economy ratings of comparable vehicles by other manufacturers.
