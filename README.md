@@ -19,7 +19,6 @@ Coefficients:
 (10 points) Statistical summary with intended p-values:
 
 ![Summary_statistics](Summary_statistics.png)
-
 ### Linear Regression to Predict MPG
 (5 points) Questions addressed in Deliverable 1 Requirements</p>
 Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
@@ -44,6 +43,7 @@ This model does appear to predict mpg of MechaCar prototypes effectively. The R-
 
 ![Loy_Summary_Data_Table](LotSummaryDataTable.png)
 
+### Summary Statistics on Suspension Coils
 Study Design: MechaCar vs Competition
 (5 points) To test the MechaCar against its competition, we can test the fuel economy of the MechaCar against the fuel economy ratings of comparable vehicles by other manufacturers.
 
