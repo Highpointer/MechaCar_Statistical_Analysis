@@ -1,5 +1,7 @@
 # MechaCar_Statistical_Analysis
 
+![Colorado1stCongressionalDistrictElection2018](Resources/Colorado1stCongressionalDistrictElection2018.png)
+
 Study Design: MechaCar vs Competition
 (5 points) To test the MechaCar against its competition, we can test the fuel economy of the MechaCar against the fuel economy ratings of comparable vehicles by other manufacturers.
 
