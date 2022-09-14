@@ -54,7 +54,9 @@ One-sample T-test across all manufacturing lots, compared to population mean of 
 
 T-tests for each manufacturing lot, compared to mean 1,500 psi:
 ![T-test-Lot1](T-test-Lot1.png)
+
 ![T-test-Lot2](T-test-Lot2.png)
+
 ![T-test-Lot3](T-test-Lot3.png)
 ## Deliverable 4: Design a Study Comparing the MechaCar to the Competition
 (5 points) To test the MechaCar against its competition, we can test the fuel economy of the MechaCar against the fuel economy ratings of comparable vehicles by other manufacturers.
