@@ -32,6 +32,9 @@ This model does appear to predict mpg of MechaCar prototypes effectively. The R-
 
 ## Deliverable 2: Create Visualizations for the Trip Analysis
 
+(5 points) Here are the first 10 rows of the 50 rows of Suspension_Coil.csv read into a dataframe:
+![First 10 rows of Suspension Coil CSV file](Suspension_Coil_df.png)
+
 Study Design: MechaCar vs Competition
 (5 points) To test the MechaCar against its competition, we can test the fuel economy of the MechaCar against the fuel economy ratings of comparable vehicles by other manufacturers.
 
