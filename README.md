@@ -47,6 +47,8 @@ This model does appear to predict mpg of MechaCar prototypes effectively. The R-
 
 (5 points) The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. The current manufacturing data meets this design specification for all manufacturing lots in total. However, it does not meets this design specification for each lot individually. It fails to meet this specification for Lot 3.
 
+## Deliverable 3: T-Tests on Suspension Coils
+
 ## Deliverable 4: Design a Study Comparing the MechaCar to the Competition
 (5 points) To test the MechaCar against its competition, we can test the fuel economy of the MechaCar against the fuel economy ratings of comparable vehicles by other manufacturers.
 
