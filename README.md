@@ -30,8 +30,8 @@ The slope is not considered to be zero, as the multiple R-squared value is 0.714
 
 This model does appear to predict mpg of MechaCar prototypes effectively. The R-squared value of 0.7149 is relatively high while the p-value remains significant.
 
-Is the slope of the linear model considered to be zero? Why or why not?
-Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
+## Deliverable 2: Create Visualizations for the Trip Analysis
+
 Study Design: MechaCar vs Competition
 (5 points) To test the MechaCar against its competition, we can test the fuel economy of the MechaCar against the fuel economy ratings of comparable vehicles by other manufacturers.
 
