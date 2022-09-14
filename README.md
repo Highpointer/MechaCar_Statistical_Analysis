@@ -39,6 +39,10 @@ This model does appear to predict mpg of MechaCar prototypes effectively. The R-
 
 ![Total_Summary_Data_Table](TotalSummaryDataTable.png)
 
+(10 points) Lot summary dataframe for each manufacturing lot
+
+![Loy_Summary_Data_Table](LotSummaryDataTable.png)
+
 Study Design: MechaCar vs Competition
 (5 points) To test the MechaCar against its competition, we can test the fuel economy of the MechaCar against the fuel economy ratings of comparable vehicles by other manufacturers.
 
