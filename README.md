@@ -1,3 +1,7 @@
+## Linear Regression to Predict MPG (Deliverable 1)
+
+(5 points) 
+
 # MechaCar_Statistical_Analysis
 
 # Study Design: MechaCar vs Competition
