@@ -1,5 +1,5 @@
 # MechaCar_Statistical_Analysis
-## Linear Regression to Predict MPG
+## Deliverable 1: Linear Regression to Predict MPG
 
 (5 points) Here are the first 10 rows of the 50 rows of MechaCar_mpg.csv read into a dataframe:
 ![First 10 rows of CSV file](MechaCar_mpg_data_frame_first_10_rows.png)
