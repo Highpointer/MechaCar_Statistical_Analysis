@@ -26,7 +26,7 @@ Which variables/coefficients provided a non-random amount of variance to the mpg
 
 As explained in the module, each Pr(>|t|) value in the summary output represents the probability that each coefficient contributes a random amount of variance to the linear model. According to the results, vehicle length and ground clearance (as well as intercept) are statistically unlikely to provide random amounts of variance to the linear model. In other words the vehicle length and ground clearance have a significant impact on mpg. 
 
-The slope is not considered to be zero, as the multiple R-squared value is 0.7149 while the p-value remains significant. However, since multiple linear regression models use multiple variables and dimensions, they are almost impossible to plot and visualize.
+The slope is not considered to be zero, as the multiple R-squared value is 0.7149 while the p-value remains significant. However, since multiple linear regression models use multiple variables and dimensions, they are almost impossible to plot and visualize. It will generally outperform a simple linear regression.
 
 This model does appear to predict mpg of MechaCar prototypes effectively. The R-squared value of 0.7149 is relatively high while the p-value remains significant.
 
