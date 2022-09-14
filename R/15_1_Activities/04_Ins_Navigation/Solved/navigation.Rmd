@@ -1,0 +1,26 @@
+---
+title: "Navigation"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### Dependency
+```{r}
+library(tidyverse)
+```
+```{r}
+file.exists("data.csv")
+```
+
+###
+```{r}
+sample_csv <- read_csv("data.csv")
+```
+###
+```{r}
+head(sample_csv)
+```
+
