@@ -12,4 +12,8 @@ The alternate hypothesis Ha is that there is a statistically significant differe
 
 (5 points)
 
-To gain a competitive advantage, we want to show that MechaCar models provide superior fuel 
+To gain a competitive advantage, we want to show that MechaCar models provide superior fuel economy ratings over comparable non-MechaCar vehicles. Thus, we can perform a one-tailed t-test with p-value, or probability value, equal to 0.95.
+
+(5 points)
+
+We will obtain fuel economy data for the competitors' comparable vehicles and run statistical tests against fuel economy data of MechaCar vehicles. If we calculate a p-value that is smaller than 0.95, we would state that there is sufficient statistical evidence that our null hypothesis is not true. Thus, we would use these findings to reject the null hypothesis and generate the conclusion that MechaCar models offer superior fuel economy over the vehicles of its competitors.
