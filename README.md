@@ -66,7 +66,7 @@ This model does appear to predict mpg of MechaCar prototypes effectively. The R-
 
 For the T-Tests across Lots 1 and 2, the sample means are 1500 and 1500.2, respectively. Both are within their respective 95% confidence intervals of 1499.719 to 1500.281 for Lot 1 and 1499.423 to 1500.977 for Lot 2. We fail to reject the null hypothesis.
 
-For the T-Test across Lot 3, the sample mean is 1496.14 and the 95% confidence interval is 1492.431 to 1499.849. The presumed mean value of 1500 falls outside the range of this confidence interval. The statistical analysis for Lot 3 shows that its mean is statistically different than a presumed mean of 1500. We reject the null hypothesis and fail to reject the alternative hypothesis.
+For the T-Test across Lot 3, the sample mean is 1496.14 and the 95% confidence interval is 1492.431 to 1499.849. The presumed mean value of 1500 falls outside the range of this confidence interval. The statistical analysis for Lot 3 shows that its mean is statistically different than the presumed mean of 1500. We reject the null hypothesis and fail to reject the alternative hypothesis.
 
 ## Deliverable 4: Design a Study Comparing the MechaCar to the Competition
 (5 points) To test the MechaCar against its competition, we can test the fuel economy of the MechaCar against the fuel economy ratings of comparable vehicles by other manufacturers.
